@@ -28,7 +28,6 @@ A modern desktop Application for keeping your Minecraft AFK accounts online – 
 - Per-account SOCKS5 proxy support
 - Discord webhook alerts for joins, disconnects, deaths, kicks, and errors
 - Console log view and basic chat tools for AFK accounts
-- Simple JSON configs stored next to the executable
 
 ---
 
